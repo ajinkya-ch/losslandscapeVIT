@@ -1,6 +1,7 @@
 # LossLandsxVIT
 - Contains instructions on how to train and generate losslands for models (VIT) using Tom Goldstein's original repo: [repo](https://github.com/tomgoldstein/loss-landscape)
-*All files are stored in the CFS provided by NERSC.
+
+*All files below are stored in the CFS provided by NERSC.
 
 ## Setup:
 
