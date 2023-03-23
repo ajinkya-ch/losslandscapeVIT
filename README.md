@@ -7,7 +7,7 @@
 
 1. Create a new conda environment: `conda create --name losslandvit python=3.6`
 2. Install required packages: `pip install -r requirements.txt`
-3. Clone original losslandscapes repository: `git clone https://github.com/ajinkya-ch/losslandscapeVIT.git`
+3. Clone this repository: `git clone https://github.com/ajinkya-ch/losslandscapeVIT.git`
 
 
 ## Train Vision Transformer (on Cori):
